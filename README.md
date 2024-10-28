@@ -1,1 +1,1 @@
-# gokayteam Erciyes Üniversitesi İHA takımı olan Gökay takımı için yaptığım çalışmaları burada paylaşacağım.
+Erciyes Üniversitesi Gökay UAV Teknofest grubu için yaptığım çalışmaları buradan paylaşacağım.
